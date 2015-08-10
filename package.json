@@ -1,0 +1,16 @@
+{
+  "name": "strip-source-map-loader",
+  "version": "0.0.1",
+  "description": "Strip sourceMappingURL comments from loaded resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "sourcemap"
+  ],
+  "author": "Eric O'Connell <eric@compassing.net>",
+  "license": "ISC"
+}
