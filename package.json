@@ -1,5 +1,5 @@
 {
-  "name": "strip-source-map-loader",
+  "name": "strip-sourcemap-loader",
   "version": "0.0.1",
   "description": "Strip sourceMappingURL comments from loaded resources",
   "main": "index.js",
